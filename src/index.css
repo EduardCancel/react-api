@@ -1,0 +1,14 @@
+@import 'bootstrap/dist/css/bootstrap.min.css';
+@import 'bootstrap-icons/font/bootstrap-icons.css';
+
+
+.img-container {
+    min-width: 300px;
+
+    img {
+        /* aggiustare l'immagine */
+
+        object-fit: cover;
+
+    }
+}
